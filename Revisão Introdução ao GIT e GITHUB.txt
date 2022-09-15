@@ -1,0 +1,28 @@
+# Principais pontos da revisão Git e Github
+
+**Git** - Sistema de versionamento distribuído
+
+**Github** - Respoitório na nuvem
+
+##Benefícios da utilização do Git/Github
+1 - Controle de versão
+2 - Armazenamento em nuvem
+3 - Facilitador do trabalho em equipe
+4 - Melhoria do seu código através do trabalho compartilhado em equipe
+
+# Comandos básicos apresentados
+
+**git clone*- para clonar o  repositório na sua máquina.
+**git add.** - para atualizar as informações do arquivo para o git.
+**git commit** - para "commitar" o código. Destacando aqui a importância do cometáriono  commmit.
+**git push* - para enviarpara a nuvem.
+
+#Comandos básicos do Windows, para utilização do terminal foram relembrados.
+- cd ---- change directory
+- dir ---- directory
+- mkdir ---- make changes
+- del ---- não exclui o diretório, apenas limpa pastas
+- rmdir ---- esse aqui que remove diretório
+ 
+
+
